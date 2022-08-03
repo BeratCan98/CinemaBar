@@ -1,0 +1,17 @@
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\bin\Debug\netcoreapp3.1\Cinema_Bar.exe
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\bin\Debug\netcoreapp3.1\Cinema_Bar.deps.json
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\bin\Debug\netcoreapp3.1\Cinema_Bar.runtimeconfig.json
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\bin\Debug\netcoreapp3.1\Cinema_Bar.runtimeconfig.dev.json
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\bin\Debug\netcoreapp3.1\Cinema_Bar.dll
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\bin\Debug\netcoreapp3.1\Cinema_Bar.pdb
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.csproj.AssemblyReference.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.Form1.resources
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.Properties.Resources.resources
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.csproj.GenerateResource.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.AssemblyInfoInputs.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.AssemblyInfo.cs
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.csproj.CoreCompileInputs.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.dll
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.pdb
+C:\Users\can.duman\source\repos\UdemyLessons\Cinema_Bar\obj\Debug\netcoreapp3.1\Cinema_Bar.genruntimeconfig.cache
